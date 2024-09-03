@@ -17,7 +17,7 @@ The goal of this project was to create QR code.
 
 ### Screenshot
 
-(./images/screenshot.jpg)
+images/screenshot.jpg
 
 ## My process
 1. Linking external CSS file for styling.
