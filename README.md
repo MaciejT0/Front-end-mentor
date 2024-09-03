@@ -15,10 +15,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 The goal of this project was to create QR code.
 
-### Screenshot
-
-images/screenshot.jpg
-
 ## My process
 1. Linking external CSS file for styling.
 2. Using <img> and <p> tags, to add contetnt to the page.
